@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-superagent-bluebird-promise/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-superagent-bluebird-promise/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-superagent-bluebird-promise/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-superagent-bluebird-promise/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-superagent-bluebird-promise/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-superagent-bluebird-promise/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-superagent-bluebird-promise/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-superagent-bluebird-promise/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-superagent-bluebird-promise/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-superagent-bluebird-promise/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-superagent-bluebird-promise/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-superagent-bluebird-promise/build/coverage.html/index.html)
 
