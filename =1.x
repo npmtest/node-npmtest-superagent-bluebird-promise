@@ -1,4 +1,4 @@
-npmtest-superagent-bluebird-promise@0.0.1 /home/travis/build/npmtest/node-npmtest-superagent-bluebird-promise
+npmtest-superagent-bluebird-promise@2017.4.25 /home/travis/build/npmtest/node-npmtest-superagent-bluebird-promise
 └─┬ superagent@3.5.2 
   ├── component-emitter@1.2.1 
   ├── cookiejar@2.1.1 
